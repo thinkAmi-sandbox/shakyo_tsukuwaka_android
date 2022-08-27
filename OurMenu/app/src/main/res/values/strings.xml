@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">OurMenu</string>
+	<string name="title_activity_menu">Menu</string>
+	<string name="title_activity_context_menu">ContextMenu</string>
+</resources>
