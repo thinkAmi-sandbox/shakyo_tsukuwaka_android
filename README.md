@@ -20,3 +20,8 @@
   - そのため、センサー系や地図系は実装していない
   - 実装したくなったらそのときに実装する
 
+　  
+
+# 関係するBlog (written in Japanese)
+
+- [「作ればわかる！Androidプログラミング」をJetpack Composeで実装してみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2022/08/31/213859)
